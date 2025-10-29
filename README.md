@@ -1,2 +1,9 @@
-# my-N-run-202510282104
-Infrastructure for my-N-run-202510282104
+# Terraform Infrastructure
+
+This repository contains Terraform code to deploy:
+- EC2 instance with Node.js web application
+- S3 bucket for configuration
+- IAM roles and policies
+- Security groups
+
+Managed by Temporal workflows.
